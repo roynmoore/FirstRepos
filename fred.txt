@@ -1,1 +1,3 @@
 this is file fred.   created in local branch develop.   plan is to push up to gihub and create the new branch in the process.   master branch local and remote should be the same.
+
+being updated in the 2nd copy of this project.
